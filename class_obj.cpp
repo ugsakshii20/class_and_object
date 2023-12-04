@@ -1,6 +1,6 @@
 
 // C++ program to implement 
-// the above approach
+
 #include<iostream>
 using namespace std;
  
